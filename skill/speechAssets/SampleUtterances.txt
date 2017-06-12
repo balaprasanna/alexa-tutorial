@@ -1,0 +1,8 @@
+AskTrendsIntent show my whats trending in twitter
+AskTrendsIntent whats trending in twitter
+AskTrendsIntent trending in twitter
+AskTrendsIntent trending hash tags
+AskTrendsIntent trends
+GoodByeIntent Okay bye
+AskTrendsByLocationIntent whats trending in {locatoinName}
+AskTrendsByLocationIntent twitter trends in {locatoinName}

@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "AskTrendsIntent"
+    },
+    {
+      "intent": "GoodByeIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "locatoinName",
+          "type": "AMAZON.Country"
+        }
+      ],
+      "intent": "AskTrendsByLocationIntent"
+    }
+  ]
+}
